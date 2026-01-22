@@ -3,9 +3,9 @@
 A modern React authentication application featuring **Login, Signup, and Forgot Password flows**, built using **React Router DOM**, **Framer Motion**, and **React Icons**.
 
 ---
-# Social_Continue_Form
+# Auth_Slider
 
-A **Social_Continue_Form provides a smooth transition from social login to account completion, allowing users to securely finalize their profile details with minimal friction **
+A **Auth_Slider enhances the authentication experience with smooth sliding transitions that guide users between login, signup, and recovery flows effortlessly. **
 
 
 ## 📦 Dependencies Installation (Required)
